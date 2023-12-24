@@ -113,7 +113,7 @@ console.log("Total :$"+total);
 
 
 var changes = [];
-console.log(changes);
+
 
 for(var i=1;i<finances.length;i++){
      changes.push(finances[i][1]-finances[i-1][1]);
