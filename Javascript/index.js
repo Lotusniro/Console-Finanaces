@@ -97,10 +97,7 @@ console.log("Total Months : "+totalMonths);
 
 //2.
 // calculate the net total amount of "Profit/Losses" over the entire period
-//to find this lets loop through the array and add the second element of each item to a total
-//finances[i][0] is the first element of each item which is the month
-//finances[i][1] is the second element of each item which is the profit/loss which we need to add to the total
-//total=0 will be the starting point of the total
+
 
 var total = 0;
 for (var i = 0; i < finances.length; i++) {
@@ -112,15 +109,9 @@ console.log("Total :$"+total);
 //3.
 // calculate the average of the changes in "Profit/Losses" over the entire period
 //average change = total change / (number of months-1)
-//to find the total change we need to find the difference between the current data and the previous data
-//change = currentData - previousData
-//total change = sum of all changes
 
 
-//first store all the changes in an empty array
-//then loop through the array and push the first change into the array
-//changes.push(currentData - previousData);
-//then loop through the array and push the changes into the array
+
 var changes = [];
 console.log(changes);
 
