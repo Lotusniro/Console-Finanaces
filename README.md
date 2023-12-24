@@ -8,7 +8,7 @@ first I calculated the total number of months included in the dataset which is t
 ![SCREENSHOTS
 ](https://github.com/Lotusniro/Console-Finanaces/blob/main/screenshots/Screenshot%202023-12-24%20at%2012.44.34.png)
 
-then we calculate the total amount of profit/losses over the entire period which is the sum of the profit/losses .
+then we calculate the total amount of profit/losses over the entire period which is the sum of the profit/losses
 
 - calculated the net total amount of "Profit/Losses" over the entire period
   
@@ -24,7 +24,7 @@ then we calculate the total amount of profit/losses over the entire period which
 ![SCREENSHOTS
 ](https://github.com/Lotusniro/Console-Finanaces/blob/main/screenshots/Screenshot%202023-12-24%20at%2012.45.17.png)
 
-then we calculate the average change in profit/losses over the entire period which is the sum of the profit/losses column divided by the length of the array.
+-then I calculated the average change in profit/losses over the entire period 
 
 -average change = total change / (number of months-1)
 
