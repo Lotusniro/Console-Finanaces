@@ -4,14 +4,11 @@
 This is a console application that allows the user to manage their finances. The user can add, subtract, and view their transactions. The user can also view their total budget for the month.
 In this applIcation we consoled log the total
 ## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Questions](#questions)
+
 
 first we calculate the total number of months included in the dataset which is the length of the array.
-
-https://github.com/Lotusniro/Console-Finanaces/blob/main/screenshots/Screenshot%202023-12-24%20at%2012.44.34.png
+[
+](https://github.com/Lotusniro/Console-Finanaces/blob/main/screenshots/Screenshot%202023-12-24%20at%2012.44.34.png)
 
 then we calculate the total amount of profit/losses over the entire period which is the sum of the profit/losses .
 -to find this loop through the array and add the second element of each item to a total
