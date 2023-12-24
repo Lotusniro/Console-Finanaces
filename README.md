@@ -11,6 +11,7 @@ first we calculate the total number of months included in the dataset which is t
 then we calculate the total amount of profit/losses over the entire period which is the sum of the profit/losses .
 total = sum of all profit/losses
 -first store all the profit/losses in an empty array
+
 -then loop through the array and push the first profit/loss into the array
 
 
