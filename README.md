@@ -6,8 +6,8 @@ In this applIcation we consoled log the total
 
 
 first we calculate the total number of months included in the dataset which is the length of the array.
-
-
+![SCREENSHOTS
+](https://github.com/Lotusniro/Console-Finanaces/blob/main/screenshots/Screenshot%202023-12-24%20at%2012.44.34.png)
 then we calculate the total amount of profit/losses over the entire period which is the sum of the profit/losses .
 total = sum of all profit/losses
 -first store all the profit/losses in an empty array
