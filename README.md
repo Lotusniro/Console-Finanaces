@@ -9,11 +9,16 @@ first I calculated the total number of months included in the dataset which is t
 ](https://github.com/Lotusniro/Console-Finanaces/blob/main/screenshots/Screenshot%202023-12-24%20at%2012.44.34.png)
 
 then we calculate the total amount of profit/losses over the entire period which is the sum of the profit/losses .
-- calculate the net total amount of "Profit/Losses" over the entire period
-- then looped through the array and add the second element of each item to a totalto find this lets loop through the array and add the 
+
+- calculated the net total amount of "Profit/Losses" over the entire period
+  
+-to do this looped through the array and add the second element of each item to a total
+
 -finances[i][0] is the first element of each item which is the month
+
 -finances[i][1] is the second element of each item which is the profit/loss which we need to add to the total
-  total=0 will be the starting point of the total
+
+-total=0 will be the starting point of the total
 
 
 ![SCREENSHOTS
