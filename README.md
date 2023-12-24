@@ -10,6 +10,7 @@ first we calculate the total number of months included in the dataset which is t
 ](https://github.com/Lotusniro/Console-Finanaces/blob/main/screenshots/Screenshot%202023-12-24%20at%2012.44.34.png)
 then we calculate the total amount of profit/losses over the entire period which is the sum of the profit/losses .
 -total = sum of all profit/losses
+
 -first store all the profit/losses in an empty array
 
 -then loop through the array and push the first profit/loss into the array
@@ -28,8 +29,8 @@ then we calculate the average change in profit/losses over the entire period whi
 -find the total change by looping through the array and adding each change to the total change
 -then find the average change by dividing the total change by the length of the array
 
-
-
+![SCREENSHOTS
+](https://github.com/Lotusniro/Console-Finanaces/blob/main/screenshots/Screenshot%202023-12-24%20at%2012.45.31.png)
 
 
 then I calculated the greatest increase in profits over the entire period which is the maximum value of the profit/losses column.
