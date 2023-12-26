@@ -10,9 +10,9 @@ first I calculated the total number of months included in the dataset which is t
 
 
 
-- calculated the net total amount of "Profit/Losses" over the entire period
+- calculating the net total amount of "Profit/Losses" over the entire period
   
-- to do this looped through the array and add the second element of each item to a total
+- to do this loop through the array and add the second element of each item to a total
 
 - finances[i][0] is the first element of each item which is the month
 
@@ -24,23 +24,23 @@ first I calculated the total number of months included in the dataset which is t
 ![SCREENSHOTS
 ](https://github.com/Lotusniro/Console-Finanaces/blob/main/screenshots/Screenshot%202023-12-24%20at%2012.45.17.png)
 
--then I calculated the average change in profit/losses over the entire period 
+- then I calculated the average change in profit/losses over the entire period 
 
--average change = total change / (number of months-1)
+- average change = total change / (number of months-1)
 
--to find the total change we need to find the difference between the current data and the previous data
+- to find the total change first we need to find the difference between the current data and the previous data
 
--change = currentData - previousData
+- change = currentData - previousData
 
--total change = sum of all changes
+- total change = sum of all changes
 
--first store all the changes in an empty array
+-  store all the changes in an empty array
 
--then loop through the array and push the first change into the array
+- loop through the array and push the first change into the array
 
--find the total change by looping through the array and adding each change to the total change
+- find the total change by looping through the array and adding each change to the total change
 
--then find the average change by dividing the total change by the length of the array
+- find the average change by dividing the total change by the (number of months-1)
 
 ![SCREENSHOTS
 ](https://github.com/Lotusniro/Console-Finanaces/blob/main/screenshots/Screenshot%202023-12-24%20at%2012.45.31.png)
